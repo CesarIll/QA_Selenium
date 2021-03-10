@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="itemTestClean.CRUDItemTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-03-10T05:03:30" hostname="LAPTOP-RDP1UL0U" time="31.018">
+  <properties/>
+  <testcase name="verify_create_item_todoly" classname="itemTestClean.CRUDItemTest" time="31.018"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[1615352611313	geckodriver	INFO	Listening on 127.0.0.1:27987
+1615352612079	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\cesar\\AppData\\Local\\Temp\\rust_mozprofileOhapms"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615352615299	Marionette	INFO	Listening on port 13601
+1615352615774	Marionette	WARN	TLS certificate errors will be ignored for this session
+Mar 10, 2021 1:03:35 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 775))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 422))
+1615352640247	Marionette	INFO	Stopped listening on port 13601
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+]]></system-err>
+</testsuite>

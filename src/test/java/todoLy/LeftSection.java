@@ -21,5 +21,7 @@ public class LeftSection {
     public Button delete = new Button(By.xpath("//ul[@id='projectContextMenu']//a[@href='#delete']"));
     public Button deleteVerify = new Button(By.xpath("//div[@id=\"ProjectListPlaceHolder\"]//li[last()]"));
 
+    public Button selectProjectCesar = new Button(By.xpath("//li//td[contains(.,'ProjectCesar') and @class='ProjItemContent']"));
+
     public LeftSection(){}
 }
