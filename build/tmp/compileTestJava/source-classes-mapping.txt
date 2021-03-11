@@ -34,10 +34,26 @@ todoLy/CenterSection.java
  todoLy.CenterSection
 factoryBrowser/BrowserStack.java
  factoryBrowser.BrowserStack
+todoist/LeftSection.java
+ todoist.LeftSection
+factoryBrowser/FireFox.java
+ factoryBrowser.FireFox
+todoist/RegisterSection.java
+ todoist.RegisterSection
+testClean/CreationUserTest.java
+ testClean.CreationUserTest
+todoist/SelectTheme.java
+ todoist.SelectTheme
+todoist/MainPage.java
+ todoist.MainPage
+ejercicio2/Ejercicio2.java
+ ejercicio2.Ejercicio2
+factoryBrowser/FactoryBrowser.java
+ factoryBrowser.FactoryBrowser
 controls/Control.java
  controls.Control
-testClean/DeleteProjectTest.java
- testClean.DeleteProjectTest
+testClean/TestBaseTodoist.java
+ testClean.TestBaseTodoist
 testClean/UpdateProjectTest.java
  testClean.UpdateProjectTest
 testClean/CreateProjectTest.java
@@ -48,7 +64,5 @@ testClean/LoginTest.java
  testClean.LoginTest
 itemTestClean/CRUDItemTest.java
  itemTestClean.CRUDItemTest
-factoryBrowser/FactoryBrowser.java
- factoryBrowser.FactoryBrowser
-factoryBrowser/FireFox.java
- factoryBrowser.FireFox
+testClean/DeleteProjectTest.java
+ testClean.DeleteProjectTest
